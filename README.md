@@ -28,7 +28,7 @@ Composed of two main components.
 ## Installation / Setup instruction
 * Open Terminal {Ctrl+Alt+T}
 
-* git clone ```https://github.com/Owiti-Charles/Git-Search.git```
+* git clone ```https://github.com/Charles-Ndugire/github-Search.git```
 
 * cd Git-Search
 
