@@ -50,11 +50,11 @@ Composed of two main components.
 * Generated with [Angular CLI](https://github.com/angular/angular-cli)
 
 ## Known Bugs
-* No known bug now 
+* No known bug for now 
 
 ## Contact Information 
 
-If you have any question or contributions, please email me at [ndugirecharles@gmail.com]
+If you have any concerns, please email me at [ndugirecharles@gmail.com]
 
 ## License
 * *MIT License:*
