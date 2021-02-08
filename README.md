@@ -14,7 +14,7 @@ This is Agular CLI application that allows a user to enter a GitHub username int
 ## Live Page 
 
 
- [github-search](https://wanjiiru.github.io/Github-search/Github-search/users)
+ [github-search](https://owiti-charles.github.io/Git-Search/search-repo)
 
 
 
