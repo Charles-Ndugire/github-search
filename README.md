@@ -1,4 +1,4 @@
-# GithubSearch
+# Github-search
 
 
 ## Author
