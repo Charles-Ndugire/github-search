@@ -1,4 +1,4 @@
-# GitSearch
+# GithubSearch
 
 
 ## Author
@@ -50,7 +50,7 @@ Composed of two main components.
 * Generated with [Angular CLI](https://github.com/angular/angular-cli)
 
 ## Known Bugs
-* No known bug now but pull requests are encouraged
+* No known bug now 
 
 ## Contact Information 
 
