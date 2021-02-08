@@ -13,7 +13,7 @@ This is Agular CLI application that allows a user to enter a GitHub username int
 
 ## Live Page 
 
- [Softpark Pizza](https://charles-ndugire.github.io/pizza-shop/.)
+ [github-search](https://charles-ndugire.github.io/pizza-shop/.)
 
 
 
