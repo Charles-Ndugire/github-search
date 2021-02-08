@@ -47,7 +47,7 @@ Composed of two main components.
 * CSS
 * Bootstrap 
 * Typescript
-* Generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.2.1.
+* Generated with [Angular CLI](https://github.com/angular/angular-cli)
 
 ## Known Bugs
 * No known bug now but pull requests are encouraged
