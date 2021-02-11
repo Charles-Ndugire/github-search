@@ -9,17 +9,6 @@
 
 This is Agular CLI application that allows a user to enter a GitHub username into a form, submit it, and see names and descriptions of that person's public repositories. A person can also look for repositories based on github user name.
 
-
-
-## Live Page 
-
-
- [github-search](https://owiti-charles.github.io/Git-Search/search-repo)
-
-
-
-
-
 Composed of two main components.
 * `Search Users` -search for users on git-hub based on their usernames.
 * `Search Repositories` -search for repositories on git-hub based on their authoers name.
